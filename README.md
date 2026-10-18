@@ -212,8 +212,8 @@ All 16 tests cover:
 ---
 
 ## 🎬 Live Application & Walkthrough Demo
-- **Hosted Application**: [https://weather-aware-truck-routing-s1j6.onrender.com/](https://weather-aware-truck-routing-s1j6.onrender.com/)
-- **Walkthrough Video**: [walkthrough_demo.mp4](walkthrough_demo.mp4) (Also streaming at [https://weather-aware-truck-routing-s1j6.onrender.com/walkthrough_demo.mp4](https://weather-aware-truck-routing-s1j6.onrender.com/walkthrough_demo.mp4))
+- **Hosted Application**: [https://weather-aware-truck-routing-ggl7.onrender.com/](https://weather-aware-truck-routing-ggl7.onrender.com/)
+- **Walkthrough Video**: [walkthrough_demo.mp4](walkthrough_demo.mp4) (Also streaming at [https://weather-aware-truck-routing-ggl7.onrender.com/walkthrough_demo.mp4](https://weather-aware-truck-routing-ggl7.onrender.com/walkthrough_demo.mp4))
 
 ---
 
